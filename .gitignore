@@ -1,0 +1,6 @@
+# Ignore everything except the website files
+*
+!index.html
+!privacy.html
+!eula.html
+!.gitignore
